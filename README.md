@@ -2,9 +2,10 @@
 
 ### Date created
 Created on 8/22/2021
+Updated on 8/25/2021
 
 ### Project Title
-Post udacity project on Github
+Version Control Project
 
 ### Description
 This project is about posting code files worked in udacity nano degree to githib repository, commmit, pushing files and version controls
