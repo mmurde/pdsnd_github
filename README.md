@@ -15,5 +15,5 @@ bikeshare.py
 csv files: new_york_city, chicago, washington
 
 ### Credits
-https://git-scm.com/docs/git-init
+https://git-scm.com/docs/
 
