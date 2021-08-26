@@ -4,14 +4,15 @@
 Created on 8/22/2021
 
 ### Project Title
-Post udacity project on Github
+Working with Version Control using Github
 
 ### Description
-This project is about posting code files worked in udacity nano degree to githib repository, commmit, pushing files and version controls
+This project is focussed on maintaining versions of code files worked in udacity nano degree to githib repository, commmit, pushing files and version controls
 
 ### Files used
 bikeshare.py
+data files (csv files)
 
 ### Credits
-https://git-scm.com/docs/git-init
+https://git-scm.com/docs/
 
