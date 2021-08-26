@@ -11,6 +11,7 @@ This project is about posting code files worked in udacity nano degree to githib
 
 ### Files used
 bikeshare.py
+csv files: new_york_city, chicago, washington
 
 ### Credits
 https://git-scm.com/docs/git-init
