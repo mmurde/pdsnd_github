@@ -12,6 +12,9 @@ This project is focussed on maintaining versions of code files worked in udacity
 ### Files used
 bikeshare.py
 data files (csv files)
+chicago
+new_york_city
+washington
 
 ### Credits
 https://git-scm.com/docs/
