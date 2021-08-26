@@ -11,11 +11,23 @@ This project is focussed on maintaining versions of code files worked in udacity
 
 ### Files used
 bikeshare.py
+<<<<<<< Updated upstream
 data files (csv files)
 chicago
 new_york_city
 washington
+||||||| constructed merge base
+=======
+csv Files chicago, new_york_city, washington
+>>>>>>> Stashed changes
 
 ### Credits
+<<<<<<< Updated upstream
 https://git-scm.com/docs/
 
+||||||| constructed merge base
+https://git-scm.com/docs/git-init
+
+=======
+https://git-scm.com/docs/git-init
+>>>>>>> Stashed changes
