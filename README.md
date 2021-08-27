@@ -16,4 +16,5 @@ csv files: new_york_city, chicago, washington
 
 ### Credits
 https://git-scm.com/docs/
+https://video.udacity-data.com/topher/2017/March/58d31eb5_ud123-git-keyterms/ud123-git-keyterms.pdf
 
